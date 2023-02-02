@@ -1,6 +1,8 @@
 // REACT 18
 import ReactDOM from "react-dom/client";
 import App from "./App";
+import './index.css'
+
 
 // getting root of DOM
 const rootContainer = document.getElementById("root") as HTMLElement;
